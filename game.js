@@ -86,7 +86,7 @@ const gameData = {
         text: "ADRIAN: I must confess that I am a vampire. But if you would offer the taste of your blood to me, I will provide you with an eternity of pumpkin spice.",
         image: "Adrian's_eyes_turn_red_as_he_reveals_his_fangs,_st.png",
         choices: [
-            { text: "My soul is a small price to pay for never-ending lattes.", next: 'epilogue4' },
+            { text: "'My soul is a small price to pay for never-ending lattes.'", next: 'epilogue4' },
             { text: "Get the heck outta of there!", next: 'epilogue3' }
         ]
     },
