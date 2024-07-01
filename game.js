@@ -78,7 +78,7 @@ const gameData = {
         next: 'chapter4_scene2'
     },
     chapter4_scene2: {
-        text: "Adrian’s eyes turn red as he bears his fangs.",
+        text: "Adrian’s eyes turn red as he bares his fangs.",
         image: "Adrian's_eyes_turn_red_as_he_reveals_his_fangs,_st.png",
         next: 'chapter4_scene3'
     },
